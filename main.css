@@ -1,0 +1,19 @@
+#header{
+	text-align: left;
+	color: black;
+	font-size: 40px;
+	font-family: sans-serif;
+	border-bottom: solid;
+	background-color: lightgray;
+}	
+
+#items{
+	border: solid transparent;
+}
+
+.styled{
+	background-color: lightblue;
+	text-decoration: none;
+	border: none;
+	font-size: 25px;
+}
